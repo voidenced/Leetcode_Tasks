@@ -1,0 +1,2 @@
+# Solved tasks from Leetcode
+
